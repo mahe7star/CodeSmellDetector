@@ -8,7 +8,7 @@ Java Program with interactive GUI for detecting code smell in a java file.
 2. Download or clone the repository.
 3. Launch `Netbeans IDE` & click on open project from menu bar `File>Open project`.
 4. Navigate to `Source Packages>default package` inside Projects.
-5. Now click on Index.java file and run it by pressing `shift+F6`.
+5. Now click on `Index.java` file and run it by pressing `shift+F6`.
 
 ## Types of Smell this program can detect.
 
