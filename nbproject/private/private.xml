@@ -3,13 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/EmptyCatch.java</file>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/LargeClass.java</file>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/ExceptionInFinal.java</file>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/DataClass.java</file>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/Index.java</file>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/comment.java</file>
-            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/NestedTry.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/EmptyCatch.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/LargeClass.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/Index.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/ExceptionInFinal.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/UnprotectedMain.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/comment.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/NestedTry.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/DummyHandler.java</file>
+            <file>file:/C:/Users/mp199/OneDrive/Documents/NetBeansProjects/CodeSmellDetector/src/codesmelldetectors/DataClass.java</file>
         </group>
     </open-files>
 </project-private>
