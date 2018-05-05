@@ -18,5 +18,7 @@ Java Program with interactive GUI for detecting code smell in a java file.
 4. Excepetion Thrown in Finally Block
 5. Data Class
 6. Comments
+7. Dummy Handler
+8. Unprotected Main Method
 
 > To know more about these code smells [Click Here](https://sourcemaking.com/refactoring/smells)
